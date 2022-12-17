@@ -1,0 +1,25 @@
+{
+  "name": "weather-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.0.7",
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.0.7",
+    "next": "13.0.7",
+    "react": "^18.2.0",
+    "react-aria": "^3.22.0",
+    "react-dom": "18.2.0",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^6.5.1"
+  }
+}

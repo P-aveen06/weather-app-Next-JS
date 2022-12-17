@@ -1,0 +1,14 @@
+.weather{
+    margin: 2rem auto;
+    width: 600px;
+}
+.weatherHeader {
+    font-size: 2rem;
+    text-align: center;
+}
+.weatherDetails{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    margin: 2rem auto;
+}
